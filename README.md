@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=280&section=header&text=Denys%20Chepelyuk&fontSize=50&fontColor=FFFFFF&desc=Software%20Engineer&descAlignY=62&descSize=20&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=280&section=header&text=Denys%20Chepelyuk&fontSize=50&fontColor=FFFFFF&desc=Software%20Engineer&descAlignY=62&descSize=20&animation=twinkling)
